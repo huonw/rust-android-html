@@ -5,7 +5,7 @@ import android.webkit.WebViewClient;
 import android.widget.Button;
 
 public class WebViewManager {
-	public static String website = "http://192.168.0.121:8000";
+	public static String website = "http://localhost:12345";
 
 	private WebView webview;
 	
